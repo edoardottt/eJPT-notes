@@ -1,5 +1,3 @@
-# eJPT-notes
-
 <img src="file:///home/edoardottt/github/edoardoottavianelli.it/post/post7/ejpt.jpg">
 
 #### Exam setup
