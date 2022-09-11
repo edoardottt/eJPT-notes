@@ -1,4 +1,4 @@
-<img src="file:///home/edoardottt/github/edoardoottavianelli.it/post/post7/ejpt.jpg">
+<img src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
 
 #### Exam setup
 - Download OPVN configuration file
