@@ -1,5 +1,8 @@
 <img src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
 
+----------
+
+
 #### Exam setup
 - Download OPVN configuration file
 - `sudo openvpn file.ovpn`
