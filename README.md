@@ -563,3 +563,7 @@ Inside a meterpreter session:
   - `use post/windows/gather/credentials/windows_autologin`
   - `set SESSION <session-id>`
   - `exploit`
+
+----------
+
+If you find an error, just [open an issue](https://github.com/edoardottt/eJPT-notes/issues).
