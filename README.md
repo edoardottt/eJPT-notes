@@ -572,3 +572,5 @@ Inside a meterpreter session:
 ----------
 
 If you find an error, just [open an issue](https://github.com/edoardottt/eJPT-notes/issues).
+
+**Don't** text/mail me looking for answers.
