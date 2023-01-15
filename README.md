@@ -3,7 +3,7 @@
 ----------
 
 > **Note**
-> These are all the notes I took following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
+> These are all the notes I took while following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
 
 Info about eJPT certification [here](https://elearnsecurity.com/product/ejpt-certification/).
 
