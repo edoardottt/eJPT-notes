@@ -1,4 +1,6 @@
-<img src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
+<p align="center">
+<img width="60%" src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
+</p>
 
 ----------
 
