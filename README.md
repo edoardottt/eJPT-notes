@@ -575,4 +575,6 @@ Inside a meterpreter session:
 
 If you find an error, just [open an issue](https://github.com/edoardottt/eJPT-notes/issues).
 
+Read also my [blog post](https://www.edoardoottavianelli.it/post/post7/post7.html).
+
 **Don't** text/mail me looking for exam solutions.
