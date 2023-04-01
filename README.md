@@ -1,5 +1,5 @@
 <p align="center">
-<img width="60%" src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
+<img width="50%" src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
 </p>
 
 ----------
