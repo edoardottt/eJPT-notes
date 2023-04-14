@@ -2,8 +2,6 @@
 <img width="50%" src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
 </p>
 
-----------
-
 > **Note**
 > These are all the notes I took while following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
 
