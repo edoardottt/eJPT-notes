@@ -5,7 +5,8 @@
 > **Note**
 > These are all the notes I took while following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
 
-Info about eJPT certification [here](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-v2).
+Info about eJPT certification [here](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-v2).  
+Read also my [blog post](https://www.edoardoottavianelli.it/post/post7/post7.html) about eJPT.
 
 
 #### Exam setup
@@ -572,7 +573,5 @@ Inside a meterpreter session:
 ----------
 
 If you find an error, just [open an issue](https://github.com/edoardottt/eJPT-notes/issues).
-
-Read also my [blog post](https://www.edoardoottavianelli.it/post/post7/post7.html).
 
 **Don't** text/mail me looking for exam solutions.
