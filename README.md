@@ -5,6 +5,8 @@
 > **Note**
 > These are all the notes I took while following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
 
+Notes by [@edoardottt](https://www.edoardoottavianelli.it/), exam passed with 19/20 score.
+
 Info about eJPT certification [here](https://security.ine.com/certifications/ejpt-certification/).  
 Read also my [blog post](https://www.edoardoottavianelli.it/post/post7/post7.html) about eJPT certification.
 
