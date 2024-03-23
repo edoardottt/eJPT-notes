@@ -1,5 +1,5 @@
 <p align="center">
-<img width="60%" src="https://github.com/edoardottt/images/blob/main/eJPT-notes/ejpt.jpg">
+<img width="60%" src="./ejpt.jpg">
 </p>
 
 > **Note**
