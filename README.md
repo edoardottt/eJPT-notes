@@ -8,7 +8,7 @@
 Notes by [@edoardottt](https://edoardottt.com/), exam passed with 19/20 score.
 
 Info about eJPT certification [here](https://security.ine.com/certifications/ejpt-certification/).  
-Read also my [blog post](https://edoardottt.com/post/post7/post7.html) about eJPT certification.
+Read also my [blog post](https://edoardottt.com/ejpt) about eJPT certification.
 
 #### Exam setup
 
